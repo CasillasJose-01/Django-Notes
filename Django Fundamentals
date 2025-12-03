@@ -1,1 +1,9 @@
-## Django-Fundamentals
+##Django Fundamentals Notes
+Install latest Django release (best practice virtual environment)
+  python -m pip install django
+Starting the project
+  django admin startproject my-project-name
+Run the development server
+  python manage.py runserver 
+  stop the server ctrl + C
+  Do not use the django server in production
